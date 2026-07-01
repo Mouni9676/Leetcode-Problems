@@ -9,4 +9,20 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mouni9676/Leetcode-Problems/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [2310-sum-of-numbers-with-units-digit-k](https://github.com/Mouni9676/Leetcode-Problems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2310-sum-of-numbers-with-units-digit-k](https://github.com/Mouni9676/Leetcode-Problems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+## Greedy
+|  |
+| ------- |
+| [2310-sum-of-numbers-with-units-digit-k](https://github.com/Mouni9676/Leetcode-Problems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+## Enumeration
+|  |
+| ------- |
+| [2310-sum-of-numbers-with-units-digit-k](https://github.com/Mouni9676/Leetcode-Problems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 <!---LeetCode Topics End-->
