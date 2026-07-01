@@ -12,6 +12,7 @@
 ## Math
 |  |
 | ------- |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Mouni9676/Leetcode-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Mouni9676/Leetcode-Problems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Dynamic Programming
 |  |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Mouni9676/Leetcode-Problems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+## Simulation
+|  |
+| ------- |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Mouni9676/Leetcode-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 <!---LeetCode Topics End-->
