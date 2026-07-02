@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mouni9676/Leetcode-Problems/tree/master/0001-two-sum) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Mouni9676/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,5 @@
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mouni9676/Leetcode-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Mouni9676/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
