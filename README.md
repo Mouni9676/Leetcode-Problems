@@ -13,6 +13,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Mouni9676/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mouni9676/Leetcode-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Mouni9676/Leetcode-Problems/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2544-alternating-digit-sum](https://github.com/Mouni9676/Leetcode-Problems/tree/master/2544-alternating-digit-sum) |
