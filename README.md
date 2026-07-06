@@ -34,4 +34,12 @@
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mouni9676/Leetcode-Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mouni9676/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Mouni9676/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Mouni9676/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
